@@ -1,5 +1,5 @@
 import 'package:dio_post/dioclient.dart';
-import 'package:dio_post/model.dart';
+
 import 'package:dio_post/model2.dart';
 import 'package:flutter/material.dart';
 import 'package:dio/dio.dart';
